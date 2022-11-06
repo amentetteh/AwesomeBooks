@@ -3,7 +3,7 @@
 
 ## Built With
 
-- Major languages :\
+- Major languages :
 
 **Javascript** \
   **HTML5**  
